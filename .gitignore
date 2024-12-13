@@ -1,0 +1,10 @@
+build/
+*.exe
+*.obj
+*.log
+*.sln
+*.vcxproj
+*.user
+*.filters
+x64/
+Battleship/
